@@ -1,4 +1,4 @@
 test
 branch update
 test conflict
-u1 edit row4
+u2 edit row4
